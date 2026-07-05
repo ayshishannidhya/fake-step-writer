@@ -1,0 +1,16 @@
+# Gradle
+.gradle/
+build/
+!app/build/outputs/apk/debug/app-debug.apk
+
+# IDE
+.idea/
+*.iml
+local.properties
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Gradle binary (too large for git)
+gradle-8.9-bin.zip
