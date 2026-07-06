@@ -1,16 +1,39 @@
-# 🏃 Fake Step Writer — Add Fake Steps to Health Connect in One Tap
+# 🏃 Fake Step Writer — Get Free Lenskart Frame Without Walking
 
-**Free Android app to write any step count directly to Google Health Connect.** Add 10k, 20k, 50k or any custom steps instantly — no root, no walking required. Steps show up in Google Fit, Samsung Health, and every app that reads from Health Connect.
+**Built for the Lenskart "Run for Frame" offer.** This free Android app writes fake step count data directly to Google Health Connect so you can claim Lenskart rewards — free frames, 10% off, 15% off — without actually walking a single step.
 
-> **TL;DR** — Enter a number, tap a button, your step count is updated. It distributes steps realistically across the day so it looks 100% natural.
+> **TL;DR** — Open the app → enter 20,000 → tap one button → open Lenskart → claim your free frame. That's it. 🎉
+
+---
+
+## 🕶️ What is Lenskart Run for Frame?
+
+Lenskart has a **"Run for Frame"** campaign where you walk a certain number of steps in a **single day** and get rewards:
+
+| Steps in a Day | Reward |
+|---|---|
+| **🥉 10,000 steps** | **10% off** your purchase (works on Buy 1 Get 1 too) |
+| **🥈 15,000 steps** | **15% off** your purchase |
+| **🥇 20,000 steps (~12 km)** | **Free frame** (just buy Blu Screen or premium lenses) |
+
+### Important Rules:
+- ⏰ All steps must be logged in a **single day** — they do NOT carry over across days
+- 📱 Steps must be recorded in **Apple Health** or **Google Health Connect**
+- 🔗 Health data must be **synced with the Lenskart App** to claim rewards
+
+### The Problem:
+Walking 20,000 steps (about 12 km) in one day is hard. That's 2-3 hours of continuous walking.
+
+### The Solution:
+**This app writes 20,000 fake steps to Health Connect in one tap.** The steps are distributed realistically across the day so it looks like you actually walked. Lenskart syncs the data and you claim your free frame. Done. 🫡
 
 ---
 
 ## ✨ Features
 
-- **One-Tap Step Writing** — Enter any step count (10,000 / 20,000 / 50,000+) and write it to Health Connect instantly
-- **Realistic Step Distribution** — Steps are automatically split across 13 natural walking sessions from 6:30 AM to 9:30 PM, so the data looks authentic in Google Fit and other fitness apps
-- **Read & Verify Steps** — Check today's total step count from Health Connect right inside the app
+- **One-Tap Step Writing** — Enter 10,000 / 15,000 / 20,000 or any custom step count and write it to Health Connect instantly
+- **Realistic Step Distribution** — Steps are automatically split across 13 natural walking sessions from 6:30 AM to 9:30 PM, so the data looks authentic when Lenskart syncs it
+- **Read & Verify Steps** — Check today's total step count from Health Connect right inside the app before opening Lenskart
 - **Smart Time Handling** — Only creates walking sessions for past hours, never writes future timestamps
 - **No Root Required** — Works on any stock Android device with Health Connect
 - **Completely Free** — No ads, no premium, no sign-up
@@ -22,6 +45,18 @@
 👉 **[Download Latest APK](https://github.com/ayshishannidhya/fake-step-writer/releases/latest/download/Fake-Step-Writer-v1.0.0.apk)** (Android only)
 
 Or browse all versions on the [Releases page](https://github.com/ayshishannidhya/fake-step-writer/releases).
+
+## 🚀 How to Get Free Lenskart Frame (Step-by-Step)
+
+1. **Download and install** this APK on your Android device
+2. Install **[Health Connect](https://play.google.com/store/apps/details?id=com.google.android.apps.healthdata)** from Play Store if you don't have it
+3. Open **Fake Step Writer** and grant Health Connect permissions
+4. Enter **20000** as the step count (or 10000/15000 for discount offers)
+5. Tap **"Write Steps to Health Connect"**
+6. Tap **"Read Today's Steps"** to verify the steps are written
+7. Open the **Lenskart App** → go to the Run for Frame section
+8. Let Lenskart sync your Health Connect data
+9. **Claim your free frame** 🕶️
 
 ## 📱 Screenshots
 
@@ -36,23 +71,14 @@ The app features a clean dark-themed UI with:
 - Android 14 or higher (API 34+)
 - [Health Connect](https://play.google.com/store/apps/details?id=com.google.android.apps.healthdata) app installed on your device
 - Health Connect permissions granted (the app will prompt you automatically)
+- Lenskart App (to claim the offer)
 
-## 🚀 How to Use
+## 💡 Other Use Cases
 
-1. Download and install the APK on your Android device
-2. Open **Fake Step Writer**
-3. Grant Health Connect permissions when prompted
-4. Enter the desired step count (default: 20,000)
-5. Tap **"Write Steps to Health Connect"**
-6. Verify with **"Read Today's Steps"** or check Google Fit / Samsung Health
-
-## 💡 Use Cases
-
-- **Fake Lenskart Run Offer Steps** — Complete Lenskart Run step challenges instantly without walking
+- Completing any step-based challenges or rewards
 - Testing fitness apps that read step data from Health Connect
-- Completing step challenges without actually walking
+- Faking steps on Google Fit or Samsung Health
 - Debugging Health Connect API integrations
-- Demonstrating step counter functionality
 
 ## 🏗️ Building from Source
 
@@ -86,11 +112,11 @@ The app requests the following Health Connect permissions:
 
 ## 🔍 Keywords
 
-`fake steps health connect` · `add steps to google fit` · `fake step counter android` · `health connect step writer` · `write steps to health connect` · `step hack android` · `google fit step hack` · `samsung health fake steps` · `step counter cheat android` · `health connect api steps` · `lenskart run hack` · `lenskart run fake steps` · `lenskart run step challenge hack`
+`lenskart run for frame hack` · `lenskart run fake steps` · `lenskart 20000 steps hack` · `lenskart free frame trick` · `lenskart run step challenge hack` · `lenskart run offer hack android` · `fake steps health connect` · `add steps to google fit` · `fake step counter android` · `health connect step writer` · `write steps to health connect` · `step hack android` · `google fit step hack` · `samsung health fake steps` · `step counter cheat android` · `lenskart run for frame free` · `lenskart run without walking` · `lenskart step counter hack`
 
 ## ⚠️ Disclaimer
 
-This app is intended for **testing and development purposes only**. Writing fake health data may violate the terms of service of some health and fitness apps. Use responsibly.
+This app is intended for **educational and testing purposes only**. Writing fake health data may violate the terms of service of Lenskart and other apps. Use at your own risk and responsibility.
 
 ## 👨‍💻 Author
 
