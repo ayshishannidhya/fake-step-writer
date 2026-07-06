@@ -19,7 +19,11 @@ The app features a clean dark UI with:
 
 ## 📥 Download
 
-Download the latest APK from the [releases](https://github.com/ayshishannidhya/fake-step-writer/releases) or grab it directly from the `app/build/outputs/apk/debug/` folder.
+[![GitHub Release](https://img.shields.io/github/v/release/ayshishannidhya/fake-step-writer?style=for-the-badge&logo=android&color=3DDC84)](https://github.com/ayshishannidhya/fake-step-writer/releases/latest)
+
+👉 **[Download Latest APK](https://github.com/ayshishannidhya/fake-step-writer/releases/latest/download/Fake-Step-Writer-v1.0.0.apk)**
+
+Or browse all versions on the [Releases page](https://github.com/ayshishannidhya/fake-step-writer/releases).
 
 ## 🛠️ Requirements
 
