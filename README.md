@@ -114,9 +114,17 @@ The app requests the following Health Connect permissions:
 
 `lenskart run for frame hack` · `lenskart run fake steps` · `lenskart 20000 steps hack` · `lenskart free frame trick` · `lenskart run step challenge hack` · `lenskart run offer hack android` · `fake steps health connect` · `add steps to google fit` · `fake step counter android` · `health connect step writer` · `write steps to health connect` · `step hack android` · `google fit step hack` · `samsung health fake steps` · `step counter cheat android` · `lenskart run for frame free` · `lenskart run without walking` · `lenskart step counter hack`
 
-## ⚠️ Disclaimer
+## ⚠️ Disclaimer & Legal Notice
 
-This app is intended for **educational and testing purposes only**. Writing fake health data may violate the terms of service of Lenskart and other apps. Use at your own risk and responsibility.
+> **This app is provided strictly for educational, research, and testing purposes only.**
+
+- This project is an **independent, open-source tool** and is **NOT affiliated with, endorsed by, or associated with Lenskart, Google, Samsung, or any other company** mentioned in this repository.
+- "Lenskart", "Run for Frame", "Google Fit", "Health Connect", "Samsung Health", and all other brand names are **trademarks of their respective owners**.
+- The author does **NOT encourage, promote, or condone** the misuse of this tool to fraudulently obtain rewards, discounts, free products, or any other benefits from any service or platform.
+- Any use of this app to manipulate health data for personal gain **may violate the Terms of Service** of Lenskart, Google, and other platforms, and could potentially have **legal consequences**.
+- The author assumes **NO responsibility or liability** for any misuse, damages, account bans, legal actions, or consequences resulting from the use of this application.
+- This software is provided **"AS IS" without warranty of any kind**, express or implied. **Use entirely at your own risk.**
+- By downloading or using this app, you acknowledge that **you are solely responsible** for how you use it and any consequences that arise from its use.
 
 ## 👨‍💻 Author
 
