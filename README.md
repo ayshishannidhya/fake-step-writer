@@ -48,6 +48,7 @@ The app features a clean dark-themed UI with:
 
 ## 💡 Use Cases
 
+- **Fake Lenskart Run Offer Steps** — Complete Lenskart Run step challenges instantly without walking
 - Testing fitness apps that read step data from Health Connect
 - Completing step challenges without actually walking
 - Debugging Health Connect API integrations
@@ -85,7 +86,7 @@ The app requests the following Health Connect permissions:
 
 ## 🔍 Keywords
 
-`fake steps health connect` · `add steps to google fit` · `fake step counter android` · `health connect step writer` · `write steps to health connect` · `step hack android` · `google fit step hack` · `samsung health fake steps` · `step counter cheat android` · `health connect api steps`
+`fake steps health connect` · `add steps to google fit` · `fake step counter android` · `health connect step writer` · `write steps to health connect` · `step hack android` · `google fit step hack` · `samsung health fake steps` · `step counter cheat android` · `health connect api steps` · `lenskart run hack` · `lenskart run fake steps` · `lenskart run step challenge hack`
 
 ## ⚠️ Disclaimer
 
